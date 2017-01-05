@@ -1,5 +1,5 @@
 __author__ = 'Thomas'
-"""Defining classes Cell and Game used in the Minesweeper"""
+"""Defining classes Cell anaaaad Game used in the Minesweeper"""
 
 import sys
 from random import randrange
